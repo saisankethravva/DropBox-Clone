@@ -1,0 +1,1 @@
+POPF is a sensitive but unprivileged instruction. POPF takes the value from top of the stack and stores it in the flag register. The bits inside the flag register reveals information about the processors current privelege level.Since the data is disclosed it is considered as a sensitive instruction.
